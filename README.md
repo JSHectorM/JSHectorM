@@ -57,7 +57,7 @@
   <a href="mailto:jshectorm@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="mailto:jshectorm@gmail.com" target="blank">
+  <a href="https://www.linkedin.com/in/jshectorm/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
